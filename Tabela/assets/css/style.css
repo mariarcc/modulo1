@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.tabela1{
+    width: 600px;
+    height: 400px;
+    font-size: 20px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgb(27, 44, 27);
+}
+
+.tabela1 thead{
+    width: 100%;
+    text-align: center;
+    color: #fff;
+}
+
+.tabela1 thead td{
+    background-color: rgb(66, 110, 66);
+}
+
+.title{
+    background-color: rgb(66, 110, 66) !important;
+    color: #fff;
+}
+
+.tabela1 td{
+    height: 60px;
+    background: #fff;
+    margin: 5px;
+}
